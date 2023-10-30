@@ -29,7 +29,7 @@ After you're finished please remove all the comments and instructions!
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="src/assets/img/nasa-2W.png" alt="logo" width="140"  height="auto" />
 
-  <h2><b>Space Travelers' Hub</b></h2>
+  <h2><b>hello-react-front-end/b></h2>
 
 </div>
 
@@ -58,22 +58,21 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Space Travelers' Hub] <a name="about-project"></a>
+# 📖 [hello-react-front-end] <a name="about-project"></a>
 
-**[Space Travelers' Hub]** is a website provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
+[Rails Api link Here](https://github.com/Yonashenok/hello-rails-back-end.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 - React.jsx
-- CSS Module
+- Tailwind Module
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[join and Leave mission]**
-- **[reserve and cancel reservation]**
+- **[Random greeting messages]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,9 +105,9 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/Yonashenok/Group-react-redux.git
+  git clone https://github.com/Yonashenok/hello-react-front-end.gitgit
 
-  cd Group-react-redux
+  cd hello-react-front-end
 
 ```
 
@@ -140,12 +139,6 @@ To run tests on linters, run the following command:
   npx eslint "**/*.{js,jsx}"
 ```
 
-To run test coverages, run the following command:
-
-```sh
-  npm test a
-```
-
 ### Deployment
 
 You can deploy this project using:
@@ -168,13 +161,6 @@ You can deploy this project using:
 - Twitter: [@yonashenok](https://twitter.com/YonasHenok3)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yonas-henok-996a26217)
 
-## 👥 Authors <a name="authors"></a>
-
-👤 _Melkamu Alemawu_
-
-- GitHub: [@melkamu12](https://github.com/melkamu12)
-- LinkedIn: [melkamu-almawu](https://www.linkedin.com/in/melkamu-almawu/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -183,8 +169,7 @@ You can deploy this project using:
 
 >
 
-- **[add test for project]**
-- **[add animation]**
+- **[add more functionally ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,7 +189,7 @@ Feel free to check the [issues page](../../issues/).
 
 >
 
-If you like this project please contact us with [Yonas Henok](https://www.linkedin.com/in/yonas-henok-996a26217) and [Melkamu Almawu](https://www.linkedin.com/in/melkamu-almawu/)
+If you like this project please contact us with [Yonas Henok](https://www.linkedin.com/in/yonas-henok-996a26217)
 
 <!-- ACKNOWLEDGEMENTS -->
 
