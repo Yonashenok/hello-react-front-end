@@ -8,7 +8,7 @@ export const fetchMessage = createAsyncThunk(
   async () => {
     const res = await axios.get(MESSAGE_API_URL);
     return res.data;
-  }
+  },
 );
 
 const initialState = {
