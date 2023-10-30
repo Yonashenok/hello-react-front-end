@@ -93,6 +93,8 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
+Nodejs, An IDE, Browser
+
 In order to run this project you need:
 
 ```sh
